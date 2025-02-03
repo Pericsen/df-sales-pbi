@@ -10,26 +10,13 @@
       "nodes": [
         {
           "location": {
-            "x": 0,
-            "y": 0
+            "x": 21,
+            "y": 48
           },
           "nodeIndex": "amazon-sale-report-clean",
           "nodeLineageTag": "c0fd56f9-0016-4590-a4d9-08bef5a1a558",
           "size": {
             "height": 300,
-            "width": 234
-          },
-          "zIndex": 0
-        },
-        {
-          "location": {
-            "x": 284,
-            "y": 38
-          },
-          "nodeIndex": "value_table",
-          "nodeLineageTag": "952deecf-e147-4546-818a-cd6d99cabe62",
-          "size": {
-            "height": 224,
             "width": 234
           },
           "zIndex": 0
